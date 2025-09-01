@@ -1,7 +1,7 @@
 <h1 align="center">Hi 😊💁‍♀️, I'm Angeline</h1>
 <h3 align="center">A Communication Studies student at James Madison University</h3>
 
-<h3 align="center">This is me!</h3>
+<h3 align="left">This is me!</h3>
 
 - 🌱 I’m currently learning **about social media strategy!**
 
