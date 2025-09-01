@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Angeline</h1>
-<h3 align="center">A student at James Madison University</h3>
+<h1 align="center">Hi 😊💁‍♀️, I'm Angeline</h1>
+<h3 align="center">A Communication Studies student at James Madison University</h3>
 
-- 🌱 I’m currently **learning about social media strategy!**
+- 🌱 I’m currently learning **about social media strategy!**
 
 - 💬 Ask me about **reality TV especially Love Island**
+
+- ❤️ I love **traveling and drawing or painting what I see at every place I go.**
 
 - 📫 How to reach me **angeline.jackson0@gmail.com**
 
 
-
-- ⚡ Fun fact **I love traveling and drawing or painting what I see at every place I go.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
