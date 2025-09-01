@@ -16,3 +16,6 @@
 <a href="https://linkedin.com/in/angeline jackson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="angeline jackson" height="30" width="40" /></a>
 <a href="https://instagram.com/angelineejackson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="angelineejackson" height="30" width="40" /></a>
 </p>
+
+
+![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png "GitHub Logo")
