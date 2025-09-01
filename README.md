@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Angeline</h1>
 <h3 align="center">A student at James Madison University</h3>
 
-- 🌱 I’m currently learning **how to manage projects with digital collaboration tools, while tying it to my future in communications and PR.**
+- 🌱 I’m currently learning **how to manage projects with digital tools, while tying it to my future in communications and PR.**
 
 - 📫 How to reach me **angeline.jackson0@gmail.com**
 
