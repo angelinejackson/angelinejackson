@@ -13,8 +13,11 @@
 
 <h3 align="left">My Skills</h3>
 - Creative
-- Coffee Enthusiast 
+
+- Coffee Enthusiast
+  
 - Time Management
+  
 - Food Critic
 
 <h3 align="left">Connect with me:</h3>
