@@ -11,10 +11,11 @@
 
 - 📫 Reach me at **angeline.jackson0@gmail.com**
 
-
+<h3 align="left">Skills</h3>
+- Creative, coffee enthusiast, time management, food critic
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/angelineejackson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="angelineejackson" height="30" width="40" /></a>
 </p>
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/angeline-jackson-a05a09240)
+
