@@ -11,8 +11,11 @@
 
 - 📫 Reach me at **angeline.jackson0@gmail.com**
 
-<h3 align="left">Skills</h3>
-- Creative, coffee enthusiast, time management, food critic
+<h3 align="left">My Skills</h3>
+- Creative
+- Coffee Enthusiast 
+- Time Management
+- Food Critic
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
