@@ -1,5 +1,5 @@
 <h1 align="center">Hi 😊💁‍♀️, I'm Angeline</h1>
-<h3 align="center">A Communication Studies student at James Madison University</h3>
+<h3 align="center">A Junior Communication Studies student at James Madison University</h3>
 
 <h3 align="left">This is me!</h3>
 
